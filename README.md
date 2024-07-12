@@ -21,3 +21,8 @@ sed -i "s|Exec=kitty|Exec=$(readlink -f ~)/.local/kitty.app/bin/kitty|g" ~/.loca
 ```
 echo 'kitty.desktop' > ~/.config/xdg-terminals.list
 ```
+配置`Kitty.conf`
+```
+cd ~/.config/kitty
+vim .kitty.conf
+```
