@@ -24,5 +24,5 @@ echo 'kitty.desktop' > ~/.config/xdg-terminals.list
 配置`Kitty.conf`
 ```
 cd ~/.config/kitty
-vim .kitty.conf
+vim kitty.conf
 ```
