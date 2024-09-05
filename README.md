@@ -1,5 +1,5 @@
 # Kitty install
-详情见：<a herf=https://sw.kovidgoyal.net/kitty/>Kitty官网</a>
+详情见：[Kitty官网](https://sw.kovidgoyal.net/kitty)
 ## Binary install
 ```
 mkdir -p Kitty
